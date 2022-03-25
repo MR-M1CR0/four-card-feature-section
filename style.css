@@ -29,6 +29,10 @@ body {
   align-items: center;
 }
 
+.container {
+  max-width: 100%;
+}
+
 .heading {
   text-align: center;
 }
